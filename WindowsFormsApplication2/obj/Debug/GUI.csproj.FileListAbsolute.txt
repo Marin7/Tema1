@@ -1,0 +1,17 @@
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AdminForm.resources
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LogInForm.resources
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserForm.resources
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\BL.dll
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Models.dll
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\DL.dll
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\BL.pdb
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Models.pdb
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\DL.pdb
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Facultate\PS\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

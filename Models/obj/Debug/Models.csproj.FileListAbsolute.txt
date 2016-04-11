@@ -1,0 +1,5 @@
+E:\Facultate\PS\WindowsFormsApplication2\Models\bin\Debug\Models.dll
+E:\Facultate\PS\WindowsFormsApplication2\Models\bin\Debug\Models.pdb
+E:\Facultate\PS\WindowsFormsApplication2\Models\obj\Debug\Models.dll
+E:\Facultate\PS\WindowsFormsApplication2\Models\obj\Debug\Models.pdb
+E:\Facultate\PS\WindowsFormsApplication2\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\Facultate\PS\WindowsFormsApplication2\BL\bin\Debug\BL.dll
+E:\Facultate\PS\WindowsFormsApplication2\BL\bin\Debug\BL.pdb
+E:\Facultate\PS\WindowsFormsApplication2\BL\obj\Debug\BL.dll
+E:\Facultate\PS\WindowsFormsApplication2\BL\obj\Debug\BL.pdb
+E:\Facultate\PS\WindowsFormsApplication2\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+E:\Facultate\PS\WindowsFormsApplication2\BL\bin\Debug\DL.dll
+E:\Facultate\PS\WindowsFormsApplication2\BL\bin\Debug\Models.dll
+E:\Facultate\PS\WindowsFormsApplication2\BL\bin\Debug\DL.pdb
+E:\Facultate\PS\WindowsFormsApplication2\BL\bin\Debug\Models.pdb
